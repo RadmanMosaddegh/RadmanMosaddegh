@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-## 🚀 Front‑DevOps
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML](https://img.shields.io/badge/HTML5-Markup-orange?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS3-Styles-blue?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+## 🖥 Front-End
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ---
 
-## 🧠 Back‑End
-[![Python](https://img.shields.io/badge/Python-Programming-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+## ⚙️ Back-End
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
 ---
 
-## 🗄️ Databases
-[![SQL](https://img.shields.io/badge/SQL-Databases-lightgrey?style=flat-square&logo=databricks&logoColor=black)](https://www.w3schools.com/sql/)
+## 🗄 Databases
+<!-- در حال حاضر مهارتی برای این بخش مشخص نشده -->
+
+---
+
+## 🚀 DevOps
+<!-- در حال حاضر مهارتی برای این بخش مشخص نشده -->
