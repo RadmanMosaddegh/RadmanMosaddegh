@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**RadmanMosaddegh/RadmanMosaddegh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Front‑DevOps
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML](https://img.shields.io/badge/HTML5-Markup-orange?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS3-Styles-blue?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Back‑End
+[![Python](https://img.shields.io/badge/Python-Programming-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+
+---
+
+## 🗄️ Databases
+[![SQL](https://img.shields.io/badge/SQL-Databases-lightgrey?style=flat-square&logo=databricks&logoColor=black)](https://www.w3schools.com/sql/)
